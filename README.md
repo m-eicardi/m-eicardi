@@ -7,7 +7,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mari-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">  
+  <img align="center" alt="Mari-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://acegif.com/wp-content/uploads/cat-typing-1.gif">
 </div>
 
   ##
