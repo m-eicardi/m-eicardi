@@ -8,7 +8,7 @@
   <img align="center" alt="Mari-Rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="right" alt="gatito-gif" height="160" src="https://cdn.discordapp.com/attachments/697952492004180052/900806677006282842/gif-me.gif">
+  <img align="right" alt="me-gif" height="160" src="https://cdn.discordapp.com/attachments/697952492004180052/900806677006282842/gif-me.gif">
 </div>
 
   ##
