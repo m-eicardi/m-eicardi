@@ -23,6 +23,7 @@
 ![Snake animation](https://github.com/m-eicardi/m-eicardi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  
 <div>
-![My scrobbles](https://my-last-fm-readme.vercel.app/api?user=marieicardi&count=1)
+  <img src="https://my-last-fm-readme.vercel.app/api?user=marieicardi" alt="last.fm recently played"/>
 </div>  
