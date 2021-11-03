@@ -4,6 +4,10 @@
   <img alt="me-gif" height="180" src="https://cdn.discordapp.com/attachments/697952492004180052/900806677006282842/gif-me.gif">
 </div>
 
+<div align="center">
+  <img width ="120"alt="profile-views" src="https://komarev.com/ghpvc/?username=m-eicardi&color=blueviolet">
+</div>
+
 ##
 <div align="center">
   <a href="https://github.com/m-eicardi">
